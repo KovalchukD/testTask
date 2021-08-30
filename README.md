@@ -9,3 +9,5 @@ ACVK Angular4 Test Task
 - Information in the second block is displayed only after selecting an item in the first block. 
 - The information in the blocks should be displayed using the angular structural directives.
 - Block number two can be closed using the "Close" button, which should be located in the lower right corner of the second block.
+
+You can use the UI components library to improve the visual display of the task result
